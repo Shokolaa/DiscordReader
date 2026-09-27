@@ -1,0 +1,12 @@
+.venv/
+messages/*
+!messages/.gitkeep
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.env.local
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
